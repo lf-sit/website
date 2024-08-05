@@ -27,19 +27,21 @@ Currently, he is a research scientist at the RIKEN Center for Advanced Intellige
 
 His outstanding achievements include The BCI Annual Research Award 2014 for the project "Airborne Ultrasonic Tactile BCI" and a nomination for the award in 2016. He also promotes diversity in research by serving as a jury for the Maria Sklodowska-Curie Prize for Young Female Scientists in Japan.
 
+
 ## Timetable
 
 | Time | Speaker | Title | misc |
 | ---- | ------- | ----- | ---- |
-| 13:00 - 14:10 | **RIKEN**<br> Dr. Tomasz Rutkowski | Multisensory BCI and healthy aging neurobiomarkers using multimodal neurotechnology | |
-| 14:10 - 14:25 | | | Break |
-| 14:25 - 14:42 | Masataka Inoue | Shear rate dependence in platelet pinocytosis | |
-| 14:42 - 14:59 | Masahiro Ohwada | Development of a topical oxygen wound treatment device for application to chronic wounds | |
-| 14:59 - 15:16 | Ayuta Kishimoto |  Reanalysis of the composition of chlorine-base compounds and identification of oxidizing substance | |
-| 15:16 - 15:33 | Kensuke Kurihara | Steam coating process: The environmentally friendly method for high-functionalization of aluminum alloys | |
-| 15:33 - 15:50 | | | Break |
-| 15:50 - 16:07 | Yuki Okamoto | Static Analysis of Types and Traits in the Rust Programming Language for Developer Assistance | |
-| 16:07 - 16:21 | Mitsutoshi Matsumori | Evaluation of Corrosion Behavior of Stainless Steel by Electrochemical Measurement | |
-| 16:21 - 16:38 | Jeremia Imanuel Gesha Pungus | Analysis on physiological signal response of healthy subject under stress condition | |
-| 16:38 - 16:55 | Simon Kojima | An auditory brain-computer interface speller based on stream segregation | |
+| 13:00 - 14:10 | Dr. Tomasz Rutkowski | Multisensory BCI and healthy aging neurobiomarkers using multimodal neurotechnology | |
+| 14:10 - 14:20 | | | Break |
+| 14:20 - 14:36 | Masataka Inoue | Shear rate dependence in platelet pinocytosis | |
+| 14:36 - 14:52 | Masahiro Ohwada | Development of a topical oxygen wound treatment device for application to chronic wounds | |
+| 14:52 - 15:08 | Ayuta Kishimoto |  Reanalysis of the composition of chlorine-base compounds and identification of oxidizing substance | |
+| 15:08 - 15:24 | Kensuke Kurihara | Steam coating process: The environmentally friendly method for high-functionalization of aluminum alloys | |
+| 15:24 - 15:35 | | | Break |
+| 15:35 - 15:51 | Yuki Okamoto | Static Analysis of Types and Traits in the Rust Programming Language for Developer Assistance | |
+| 15:51 - 16:07 | Mitsutoshi Matsumori | Evaluation of Corrosion Behavior of Stainless Steel by Electrochemical Measurement | |
+| 16:07 - 16:23 | Yoshitaka Hatta | Electrochemical behavior of platinum-plated titanium electrodes | |
+| 16:23 - 16:39 | Jeremia Imanuel Gesha Pungus | Analysis on physiological signal response of healthy subject under stress condition | |
+| 16:39 - 16:55 | Simon Kojima | An auditory brain-computer interface speller based on stream segregation | |
 | 17:30 - 19:30 | | Banquet at Sicilia Toyosu |
