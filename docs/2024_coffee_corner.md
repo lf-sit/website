@@ -8,7 +8,7 @@ nav_order: 1
 # 2024 LF Coffee Corner
 芝浦工業大学LF (Learning Facilitator)は，博士課程学生の交流促進を目的に，学生同士が集まりコーヒーを飲みながら研究や学生生活について語り合う，コーヒーコーナーを定期的に開催しています．興味のある方はぜひご参加ください！
 
-飲み物は持参ください．大宮では学生生協，豊洲ではSegafredoなどで購入いただけます．
+**予約は不要ですので開催日に各キャンパスの開催場所に起こしください．** 飲み物は持参ください．大宮では学生生協，豊洲ではSegafredoなどで購入いただけます．
 
 # 次回以降の開催予定
 ## 2024年12月
@@ -22,3 +22,4 @@ nav_order: 1
 
 # 連絡先
 - 豊洲：小島宰門 [nb21106@shibaura-it.ac.jp](mailto:nb21106@shibaura-it.ac.jp)
+- 大宮：井上雅喬 [nb22104@shibaura-it.ac.jp](mailto:nb22104@shibaura-it.ac.jp)
