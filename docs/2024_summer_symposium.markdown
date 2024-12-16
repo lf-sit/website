@@ -2,7 +2,7 @@
 layout: page
 title: 2024 LF Summer Symposium
 permalink: /2024_summer_symposium/
-nav_order: 2
+nav_order: 3
 ---
 
 # 2024 LF Summer Symposium
