@@ -9,7 +9,8 @@ nav_order: 2
 # 2024 LF Winter Symposium
 
 ## ポスター
-[こちら](/files/2024_lf_winter_symposium_fyler.pdf)からダウンロードいただけます．
+[こちら](/files/2024_lf_winter_symposium_flyer.pdf)からダウンロードいただけます．  
+![poster](/files/2024_lf_winter_symposium_flyer.jpg){: width="400"}  
 
 ## 会場
 有元史郎記念校友会館交流プラザ  
